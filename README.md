@@ -34,3 +34,16 @@ Excluding the cost, I can earn a total price spread (1800-1000) * 10-200 = 7800 
 - [ ] Transfer currency kucoin -> binance;
 - [ ] Transfer currency binance -> kucoin;
 - [ ] Slack notification when happen any operation.
+
+## 📫 Contributing
+
+To contribute to the project, follow these steps:
+
+1. Clone the repository: `git clone git@github.com:rafaelbmateus/go-binance-bot.git`
+2. Create a feature branch: `git switch -c feature-a`
+3. Make changes and confirm (try using [conventional commits](https://www.conventionalcommits.org)): `git commit -m 'feat: new feature'`
+4. Push the feature branch: `git push origin feature-a`
+5. Create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+6. Get reviews from other users
+7. Merge to `main` branch (we encourage using commit squash)
+8. Remove the branch merged.
